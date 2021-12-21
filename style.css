@@ -104,3 +104,14 @@ p {
 .links:hover {
     background-color:chartreuse;
 }
+a {
+    text-decoration: none;
+    
+}
+.article:hover {
+    color:aqua;
+        
+}
+html {
+    scroll-behavior: smooth;
+}
